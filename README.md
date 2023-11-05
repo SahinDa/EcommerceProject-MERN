@@ -34,8 +34,8 @@ CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 \_fill each filed with your info respectively*
 
-2.cd frontend run "npm run build"
-3.npm run dev
+2.cd frontend run "npm run build" <br>
+3.npm run dev <br>
 
 ## Author
 
